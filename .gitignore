@@ -1,0 +1,9 @@
+## ignores folders
+Thumbs.db
+.DS_Store
+src/config/*
+node_modules
+
+##Exeptions
+!src/config/.gitkeep
+!src/config/*.*_example
